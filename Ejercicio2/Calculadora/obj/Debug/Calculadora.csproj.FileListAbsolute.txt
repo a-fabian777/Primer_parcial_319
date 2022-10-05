@@ -1,0 +1,22 @@
+C:\Users\Desktop\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Desktop\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Desktop\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Desktop\AppData\Local\Temporary Projects\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Desktop\AppData\Local\Temporary Projects\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Desktop\AppData\Local\Temporary Projects\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Desktop\AppData\Local\Temporary Projects\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Desktop\AppData\Local\Temporary Projects\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Desktop\AppData\Local\Temporary Projects\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Desktop\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Desktop\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Desktop\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\HP\Desktop\Git\primer parcial 319\1er-Examen-INF319\PREGUNTA 2\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\HP\Desktop\Git\primer parcial 319\1er-Examen-INF319\PREGUNTA 2\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\HP\Desktop\Git\primer parcial 319\1er-Examen-INF319\PREGUNTA 2\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\HP\Desktop\Git\primer parcial 319\1er-Examen-INF319\PREGUNTA 2\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Git\primer parcial 319\1er-Examen-INF319\PREGUNTA 2\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\HP\Desktop\Git\primer parcial 319\1er-Examen-INF319\PREGUNTA 2\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\HP\Desktop\Git\primer parcial 319\1er-Examen-INF319\PREGUNTA 2\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Git\primer parcial 319\1er-Examen-INF319\PREGUNTA 2\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Git\primer parcial 319\1er-Examen-INF319\PREGUNTA 2\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\HP\Desktop\Git\primer parcial 319\1er-Examen-INF319\PREGUNTA 2\Calculadora\obj\Debug\Calculadora.pdb
